@@ -1,0 +1,7 @@
+Projeto: Smarty Study Camera (JOVI)
+Equipe: FutureCall
+
+Integrantes:
+Arthur Sgarbi Sousa - RM: 569774
+Bruno Bastos - RM: 569434
+Pedro Oliveira - RM: 572468
