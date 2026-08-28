@@ -26,3 +26,9 @@ Este projeto foi construído com foco nas melhores práticas de desenvolvimento 
 1. Faça o clone deste repositório:
    ```bash
    git clone [https://github.com/bllacerenza-a11y/Sprint3_Front_FutureCall](https://github.com/bllacerenza-a11y/Sprint3_Front_FutureCall)
+
+## 🌐 Acesso Online (GitHub Pages)
+
+Você pode visualizar a aplicação em produção diretamente pelo navegador:
+
+👉 **[Acessar Landing Page no GitHub Pages](https://bllacerenza-a11y.github.io/Sprint3_Front_FutureCall/)**
