@@ -7,6 +7,15 @@ Este repositório contém o código-fonte da Landing Page promocional do **Smart
 ## 🎯 Sobre o Projeto
 O Smarty é um assistente de estudos "Zero-Fricção" que transforma a câmera do celular em uma ferramenta de aprendizado com IA. O objetivo desta Landing Page é apresentar a solução de forma clara, moderna e comercial, detalhando o problema resolvido, o público-alvo (universitários e neurodivergentes) e a jornada do usuário através de nossa galeria.
 
+## 📱 Telas e Features Demonstradas
+
+A interface apresenta o fluxo completo do usuário através de 5 pilares:
+1. **Câmera Auto IA:** Zero fricção e eliminação de digitação de prompts.
+2. **Copiloto Flashcards:** Micro-tutoria com passos de resolução e resumos instantâneos.
+3. **Swipe 3D de Estudo:** Retenção ativa através de repetição espaçada.
+4. **Memory Link:** Cérebro relacional que conecta matérias atuais com aulas passadas automaticamente.
+5. **Loja e Gamificação:** Painel de desempenho e retenção movida a XP.
+
 ## 🛠️ Requisitos Técnicos Cumpridos (Avaliação)
 
 Este projeto foi construído com foco nas melhores práticas de desenvolvimento web moderno, cumprindo integralmente as exigências da banca avaliadora:
