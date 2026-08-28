@@ -35,3 +35,4 @@ Este projeto foi construído com foco nas melhores práticas de desenvolvimento 
 1. Faça o clone deste repositório:
    ```bash
    git clone [https://github.com/bllacerenza-a11y/Sprint3_Front_FutureCall](https://github.com/bllacerenza-a11y/Sprint3_Front_FutureCall)
+2. Link do pages: [https://bllacerenza-a11y.github.io/Sprint3_Front_FutureCall/]
